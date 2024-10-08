@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/nirajbhakta" target="_blank">
+  <a href="https://github.com/Jay19911" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/nirajbhakta" target="_blank">
@@ -17,7 +17,7 @@
 <p align="center">🚀 Developer | 💡 Innovator | 🌟 Problem Solver | 🔬 Founder of KryptonLab</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirajbhakta&show_icons=true&theme=radical" alt="Niraj's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay19911&show_icons=true&theme=radical" alt="Niraj's GitHub stats">
 </div>
 
 ---
@@ -56,7 +56,7 @@ I'm a passionate developer and entrepreneur with a vision to create innovative s
 
 Kurukshetra is an innovative neighbourhood watch system designed to enhance community safety and communication. This project showcases my ability to develop practical solutions for real-world problems.
 
-[Learn more about Kurukshetra](https://github.com/nirajbhakta/kurukshetra)
+[Learn more about Kurukshetra](https://github.com/Jay19911/kurukshetra)
 
 ### KryptonLab - Empowering the World with Technology
 
@@ -73,11 +73,11 @@ KryptonLab is my tech company dedicated to creating cutting-edge websites and pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhakta&theme=radical" alt="Niraj's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay19911&theme=radical" alt="Niraj's GitHub streak">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirajbhakta&theme=darkhub&no-frame=true&row=1&column=7" alt="Niraj's GitHub trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay19911&theme=darkhub&no-frame=true&row=1&column=7" alt="Niraj's GitHub trophies">
 </div>
 
 ---
@@ -85,11 +85,11 @@ KryptonLab is my tech company dedicated to creating cutting-edge websites and pr
 ## 🌟 Top Repositories
 
 <div align="center">
-  <a href="https://github.com/nirajbhakta/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirajbhakta&repo=repo1&theme=radical" alt="Repo 1">
+  <a href="https://github.com/Jay19911/kurukshetra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay19911&repo=kurukshetra&theme=radical" alt="Kurukshetra">
   </a>
-  <a href="https://github.com/nirajbhakta/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirajbhakta&repo=repo2&theme=radical" alt="Repo 2">
+  <a href="https://github.com/Jay19911/kryptonlab-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay19911&repo=kryptonlab-website&theme=radical" alt="KryptonLab Website">
   </a>
 </div>
 
@@ -114,11 +114,11 @@ KryptonLab is my tech company dedicated to creating cutting-edge websites and pr
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirajbhakta&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Jay19911&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </div>
 
 <h3 align="center">Let's connect and create something amazing together! 😊</h3>
 
 <div align="center">
-  <img src="https://github.com/nirajbhakta/nirajbhakta/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Jay19911/Jay19911/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
